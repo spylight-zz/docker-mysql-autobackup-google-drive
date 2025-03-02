@@ -1,4 +1,4 @@
-## Docker MySQL Autobackup Google Drive
+## Docker MySQL Autobackup to Google Drive
 Docker auto backup MySQL database to Google Drive
 
 #### Prerequisites
