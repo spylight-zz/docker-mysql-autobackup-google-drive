@@ -16,4 +16,4 @@ To automate on your system, you can use **crontab**
 
 Here an example for backup DB everyday at 23 PM
 
-`00 1 * * *      /home/backup/backupdb.sh mysqlbackup mydb root drive DriveBackup`
+`00 23 * * *      /home/backup/backupdb.sh mysqlbackup mydb root drive DriveBackup`
